@@ -28,9 +28,5 @@ Modules
 Dépendances
 -------------
 
-- Love2D ([Website](Love2D))
-- Classic ([Website](Classic))
-
-
-[Love2D]: https://love2d.org/
-[Classic]: https://github.com/rxi/classic
+- Love2D ([Website](https://love2d.org/))
+- Classic ([Website](https://github.com/rxi/classic))
