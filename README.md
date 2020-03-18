@@ -2,10 +2,10 @@
 
 ## Sommaire
 - **[Présentation](#Présentation)**
-- **[Commun](Commun)**
-- **[Bibliothèques](Bibliothèques)**			
-- **[Modules](Modules)**
-- **[Dépendances](Dépendances)**
+- **[Commun](#Commun)**
+- **[Bibliothèques](#Bibliothèques)**			
+- **[Modules](#Modules)**
+- **[Dépendances](#Dépendances)**
 ------------
 
 Présentation
@@ -22,7 +22,7 @@ Bibliothèques
 
 Modules
 ------------
-- **Game**
+- **Map**
 - **Scene**
 
 Dépendances
