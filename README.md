@@ -2,10 +2,10 @@
 
 ## Sommaire
 - **[Présentation](#Présentation)**
-- **[Commun](Commun)**
-- **[Bibliothèques](Bibliothèques)**			
-- **[Modules](Modules)**
-- **[Dépendances](Dépendances)**
+- **[Commun](#Commun)**
+- **[Bibliothèques](#Bibliothèques)**			
+- **[Modules](#Modules)**
+- **[Dépendances](#Dépendances)**
 ------------
 
 Présentation
@@ -22,15 +22,11 @@ Bibliothèques
 
 Modules
 ------------
-- **Game**
+- **Map**
 - **Scene**
 
 Dépendances
 -------------
 
-- Love2D ([Website](Love2D))
-- Classic ([Website](Classic))
-
-
-[Love2D]: https://love2d.org/
-[Classic]: https://github.com/rxi/classic
+- Love2D ([Website](https://love2d.org/))
+- Classic ([Website](https://github.com/rxi/classic))

@@ -1,6 +1,6 @@
-# Nom de la liste de fonctions
+# Nom du module
 ------
-[Description de la liste de fonction]
+[Description du module]
 
 # Fonctions
 ------
